@@ -13,7 +13,7 @@ Accurate Disease Detection: The module excels in accurate disease detection, hel
 Customizable Alerts: The module can generate customizable alerts, notifying farmers when disease risks are detected, allowing for rapid response and disease management.
 
 - Technologies Used:
-  
+   
 Python
 
 Java

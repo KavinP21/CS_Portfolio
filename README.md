@@ -2,6 +2,7 @@
 
 ### Crop Disease Detection
 - Description:
+  
 As part of my independent project, I have developed a robust and efficient Crop Disease Detection Module. This module employs machine learning techniques to detect and predict diseases in crops, contributing to early disease management in agriculture.
 - Key Features:
 Data Integration: The module seamlessly integrates data from multiple sources, including real-time IoT sensors placed in agricultural fields, historical disease datasets, and relevant weather conditions.

@@ -128,11 +128,11 @@ Shape Analysis: Evaluating the shape and contour irregularities of the tumor.
 
 Metabolic Activity: Incorporating information about the metabolic activity from PET scans.
 
-3. Deep Learning Models
+2. Deep Learning Models
    
 Custom deep learning architectures are employed to process and fuse information from different tumor features and ensemble learning techniques are used to combine the predictive power of multiple models.
 
-4. Early Detection
+3. Early Detection
    
 The primary focus of the project is on early detection, which is paramount for improving lung cancer treatment outcomes.
 

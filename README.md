@@ -39,6 +39,12 @@ Firebase
   
 The Crop Disease Detection Module has shown impressive results in its ability to detect diseases accurately and promptly as it has a 99.46% validation accuracy and a loss of 0.0190. It provides farmers with actionable insights to make informed decisions about disease management. By reducing the reliance on chemical treatments and minimizing crop losses, it contributes to improved crop health and overall yield.
 
+### Pictures:
+
+![img1](/assets/img1.jpeg)
+
+![img2](/assets/img2.jpeg)
+
 # AIoT-driven Precision Agriculture Project
 ### Project Overview:
   

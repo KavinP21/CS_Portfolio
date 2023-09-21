@@ -126,8 +126,6 @@ Density Patterns: Assessing the density and texture of the tumor.
 
 Shape Analysis: Evaluating the shape and contour irregularities of the tumor.
 
-Metabolic Activity: Incorporating information about the metabolic activity from PET scans.
-
 2. Deep Learning Models
    
 Custom deep learning architectures are employed to process and fuse information from different tumor features and ensemble learning techniques are used to combine the predictive power of multiple models.

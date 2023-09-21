@@ -41,9 +41,9 @@ The Crop Disease Detection Module has shown impressive results in its ability to
 
 ### Pictures:
 
-![img1](/assets/img1.jpeg)
+![img1](assets/img1.jpg)
 
-![img2](/assets/img2.jpeg)
+![img2](assets/img2.jpg)
 
 # AIoT-driven Precision Agriculture Project
 ### Project Overview:
